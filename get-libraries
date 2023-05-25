@@ -1,0 +1,240 @@
+{
+  "init": [
+    {
+      "status": "ok",
+      "recno": 0,
+      "message": ""
+    }
+  ],
+  "data": [
+    {
+      "party_id": 43,
+      "resource_id": 24,
+      "library_type_id": 1,
+      "created_by": 3,
+      "code": "ThFOxqwYJ8",
+      "title": "Disruptive Strategy (Job to be Done)",
+      "settings": {
+        "is_faq": null,
+        "access_type": "Private",
+        "hide_outline": false,
+        "payment_link": null,
+        "course_author": {
+          "email": [],
+          "fullname": null
+        },
+        "expire_access": {
+          "isExpiring": false,
+          "expire_access_deadline": null
+        },
+        "group_content": 1,
+        "allow_questions": {
+          "isAllowed": true,
+          "email_question_to": [
+            {
+              "email": "jerry@olern.com",
+              "last_name": "Ilao",
+              "first_name": "Jerry"
+            }
+          ]
+        },
+        "course_deadline": "360",
+        "publish_in_olern": {
+          "publish_in_olern_cost": 0,
+          "publish_in_olern_discount": 0
+        },
+        "availability_date": "2022-11-24T16:00:00.000Z"
+      },
+      "image_file": "jobs_to_be_done.jpg",
+      "isPublished": 1,
+      "created_at": "2022-01-25 10:21:36",
+      "updated_at": "2022-09-28 18:46:58",
+      "deleted_at": null,
+      "access_granted": true,
+      "categories": [
+        {
+          "party_id": 40,
+          "name": "Management",
+          "created_at": "2022-01-25 08:49:51",
+          "updated_at": "2022-01-25 08:49:51",
+          "sub_categories": [
+            {
+              "party_id": 41,
+              "name": "Innovation",
+              "created_at": "2022-01-25 08:49:51",
+              "updated_at": "2022-01-25 08:49:51"
+            }
+          ]
+        }
+      ],
+      "sub_categories": [
+        {
+          "party_id": 41,
+          "name": "Innovation",
+          "created_at": "2022-01-25 08:49:51",
+          "updated_at": "2022-01-25 08:49:51"
+        }
+      ]
+    },
+    {
+      "party_id": 28,
+      "resource_id": 7,
+      "library_type_id": 1,
+      "created_by": 5,
+      "code": "oEDbDsEMTC",
+      "title": "IT Solutions for starters training",
+      "settings": {
+        "access_type": "By Approval",
+        "hide_outline": false,
+        "payment_link": null,
+        "course_author": {
+          "email": [],
+          "fullname": null
+        },
+        "expire_access": {
+          "isExpiring": false,
+          "expire_access_deadline": null
+        },
+        "group_content": 1,
+        "allow_questions": {
+          "isAllowed": true,
+          "email_question_to": [
+            {
+              "email": "carlo.ugay@mobileoptima.com",
+              "last_name": "Ugay",
+              "first_name": "Carlo"
+            }
+          ]
+        },
+        "course_deadline": 30,
+        "publish_in_olern": {
+          "publish_in_olern_cost": 0,
+          "publish_in_olern_discount": 0
+        },
+        "availability_date": "2022-02-19T16:00:00.000Z"
+      },
+      "image_file": null,
+      "isPublished": 1,
+      "created_at": "2022-01-21 15:26:11",
+      "updated_at": "2023-03-22 16:34:59",
+      "deleted_at": null,
+      "access_granted": true,
+      "categories": [
+        {
+          "party_id": 22,
+          "name": "IT Solutions for starters",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58",
+          "sub_categories": [
+            {
+              "party_id": 23,
+              "name": "IT Solution Book 1",
+              "created_at": "2022-01-21 13:41:58",
+              "updated_at": "2022-01-21 13:41:58"
+            },
+            {
+              "party_id": 24,
+              "name": "IT Solution Book 2",
+              "created_at": "2022-01-21 13:41:58",
+              "updated_at": "2022-01-21 13:41:58"
+            }
+          ]
+        }
+      ],
+      "sub_categories": [
+        {
+          "party_id": 23,
+          "name": "IT Solution Book 1",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58"
+        }
+      ]
+    },
+    {
+      "party_id": 8489,
+      "resource_id": 259,
+      "library_type_id": 1,
+      "created_by": 5,
+      "code": "XO0iRMvcXa",
+      "title": "Test Training",
+      "settings": {
+        "access_type": "By Approval",
+        "hide_outline": false,
+        "payment_link": "",
+        "course_author": {
+          "email": [],
+          "fullname": ""
+        },
+        "expire_access": {
+          "isExpiring": false,
+          "expire_access_deadline": 0
+        },
+        "group_content": 1,
+        "allow_questions": {
+          "isAllowed": false,
+          "email_question_to": []
+        },
+        "course_deadline": 30,
+        "publish_in_olern": {
+          "publish_in_olern_cost": 0,
+          "publish_in_olern_discount": 0
+        },
+        "availability_date": "2023-04-19 00:00:00"
+      },
+      "image_file": null,
+      "isPublished": 1,
+      "created_at": "2023-03-20 11:16:48",
+      "updated_at": "2023-03-27 10:35:30",
+      "deleted_at": null,
+      "access_granted": true,
+      "categories": [
+        {
+          "party_id": 22,
+          "name": "IT Solutions for starters",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58"
+        }
+      ],
+      "sub_categories": [
+        {
+          "party_id": 23,
+          "name": "IT Solution Book 1",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58"
+        }
+      ]
+    }
+  ],
+  "categories_query": [
+    {
+      "party_id": 40,
+      "name": "Management",
+      "sub_categories": [
+        {
+          "party_id": 41,
+          "name": "Innovation",
+          "created_at": "2022-01-25 08:49:51",
+          "updated_at": "2022-01-25 08:49:51"
+        }
+      ]
+    },
+    {
+      "party_id": 22,
+      "name": "IT Solutions for starters",
+      "sub_categories": [
+        {
+          "party_id": 23,
+          "name": "IT Solution Book 1",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58"
+        },
+        {
+          "party_id": 24,
+          "name": "IT Solution Book 2",
+          "created_at": "2022-01-21 13:41:58",
+          "updated_at": "2022-01-21 13:41:58"
+        }
+      ]
+    }
+  ]
+}
