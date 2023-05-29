@@ -1,0 +1,76 @@
+{
+  "init": [
+    {
+      "status": "ok",
+      "recno": 1,
+      "message": ""
+    }
+  ],
+  "data": [
+    {
+      "party_id": 43,
+      "resource_id": 24,
+      "library_type_id": 1,
+      "created_by": 3,
+      "code": "ThFOxqwYJ8",
+      "title": "Disruptive Strategy (Job to be Done)",
+      "description": "Disruptive Strategy consists of 30 to 35 hours of material developed by Clayton Christensen and delivered over six weeks with a flexible program structure. There is no set time to log in. You complete the coursework, which consists of a highly-engaging mix of short videos, multimedia cases, interactive learning exercises, and written reflections, on your own time while meeting regular deadlines. Two group exercises and an individual final paper are also required for course completion. All course material is delivered through our innovative course platform. While there is no direct real-time interaction with the faculty built into the course, current and former students may be invited to special events, both on and off-line, where the faculty is present.\r\n\r\nOur learning model centers around the Harvard Business School case method, featuring interviews with business leaders and executives from companies around the world who candidly discuss challenges they've faced or obstacles they've overcome. We ask you to step into their shoes and engage with your peers to work through these real-world business scenarios.\r\n\r\nThe featured experts in Disruptive Strategy represent some of the best and brightest from the worlds of technology, consumer products, finance, and more. You will learn from Bill Hambrecht, Founder and CEO of WR Hambrecht & Co, and Eric Schmidt, Executive Chairman of Google, on the Google IPO; Joe Tucci, Chairman and CEO of EMC, on organizing for innovation; and Ryan Caldbeck, Founder and CEO of equity crowdfunding platform CircleUp, on disruption in the private equity marketplace; among others.\r\n\r\nJoin us in Disruptive Strategy with Clayton Christensen. Together, we’ll forge a new path in online learning as you accelerate your career.",
+      "context": {
+        "what_will_you_learn": "- Become fluent in disruption theory and gain confidence in articulating complex viewpoints\r\n- Apply strategic frameworks to assess new opportunities and potential threats\r\n- Acquire techniques for executive-level strategy formulation and team management\r\n- Discover your next big idea by learning from other participants on HBX’s social course platform",
+        "who_should_take_this": "Managers and employees"
+      },
+      "settings": {
+        "is_faq": null,
+        "access_type": "Private",
+        "hide_outline": false,
+        "payment_link": null,
+        "course_author": {
+          "email": [],
+          "fullname": null
+        },
+        "expire_access": {
+          "isExpiring": false,
+          "expire_access_deadline": null
+        },
+        "group_content": 1,
+        "allow_questions": {
+          "isAllowed": true,
+          "email_question_to": [
+            {
+              "email": "jerry@olern.com",
+              "last_name": "Ilao",
+              "first_name": "Jerry"
+            }
+          ]
+        },
+        "course_deadline": "360",
+        "publish_in_olern": {
+          "publish_in_olern_cost": 0,
+          "publish_in_olern_discount": 0
+        },
+        "availability_date": "2022-11-24T16:00:00.000Z"
+      },
+      "image_file": "jobs_to_be_done.jpg",
+      "isPublished": 1,
+      "created_at": "2022-01-25 10:21:36",
+      "updated_at": "2022-09-28 18:46:58",
+      "deleted_at": null,
+      "categories": [
+        {
+          "party_id": 40,
+          "name": "Management",
+          "created_at": "2022-01-25 08:49:51",
+          "updated_at": "2022-01-25 08:49:51"
+        }
+      ],
+      "sub_categories": [
+        {
+          "party_id": 41,
+          "name": "Innovation",
+          "created_at": "2022-01-25 08:49:51",
+          "updated_at": "2022-01-25 08:49:51"
+        }
+      ]
+    }
+  ]
+}
